@@ -21,5 +21,5 @@ class Book:
         print("Flipping the page...wow, you read fast!")    
 
     
-book=Book("The World According to Garp", 69)
+book=Book("Introduction to Python", 69)
 print(book.get_page_count())        

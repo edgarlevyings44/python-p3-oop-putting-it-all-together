@@ -19,6 +19,7 @@ class Shoe:
         print ('Your shoe is as good as new!')
         self.condition = 'New'   
     
-
+shoe=Shoe("Nike", 12)
+print ('Your shoe is as good as new!')
     
     
